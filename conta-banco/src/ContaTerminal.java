@@ -24,6 +24,7 @@ public class ContaTerminal {
         System.out.println("Agência: " + agencia);
         System.out.println("Conta: " + numero);
         System.out.println("Seu saldo: " + saldo + " já está disponível para saque.");
+        System.out.println("Oi");
     }
 
         public static String nomeCompleto(String primeiroNome, String sobreNome){
